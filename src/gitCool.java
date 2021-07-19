@@ -6,4 +6,6 @@ public class gitCool {
     // we have added our github account under intellij
     // share project on github happen only one time per project
     // it combines the 3 actions below
+
+    // its working perfectly
 }
